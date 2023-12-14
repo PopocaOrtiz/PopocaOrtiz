@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fernando @PopocaOrtiz
 - 👀 I’m passionate about full-stack software development.
 - 🌱 Currently, I'm immersed in leveraging Python, Django, REST, React, Redux, PostgreSQL, AWS, and more to craft robust applications.
-- 💼 Seeking opportunities to contribute my skills and make a meaningful impact in a forward-thinking company.
+- 💼 Seeking opportunities to contribute my skills and make a meaningful impact.
 - 📫 Let's connect! Reach me at popoca.ortiz@gmail.com
 
 <!---
